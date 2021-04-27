@@ -19,3 +19,8 @@ body {
 .parceiros {
     background-color: #58FAF4;
 }
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
